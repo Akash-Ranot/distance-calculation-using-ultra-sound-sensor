@@ -1,12 +1,8 @@
 /**
-   HC-SR04 Demo
-   Demonstration of the HC-SR04 Ultrasonic Sensor
-   Date: August 3, 2016
+ 
 
    Description:
-    Connect the ultrasonic sensor to the Arduino as per the
-    hardware connections below. Run the sketch and open a serial
-    monitor. The distance read from the sensor will be displayed
+     The distance read from the sensor will be displayed
     in centimeters and inches.
 
    Hardware Connections:
@@ -17,8 +13,7 @@
       8     |   Echo
       GND   |   GND
 
-   License:
-    Public Domain
+ 
 */
 
 // Pins
